@@ -9,24 +9,31 @@ public class Buoyancy : MonoBehaviour
     private float _radius;
     private const float PI = 3.141592f;
     private Rigidbody _rb;
+
+    private bool isUnderWater;
     // Start is called before the first frame update
     void Start()
     {
         //_col = GetComponent<SphereCollider>();
         _radius = SphereCol.radius * gameObject.transform.localScale.y;
         _rb = gameObject.GetComponent<Rigidbody>();
-
+        isUnderWater = false;
     }
 
     // Update is called once per frame
-    void Update()
-    {
-        
+    void FixedUpdate()
+    {   // 水中にあれば浮力を加える
+        if (isUnderWater) AddBuoyancy();
     }
 
     void OnTriggerStay(Collider collider)
     {
-        AddBuoyancy();  // 浮力を加える
+        isUnderWater = true;
+    }
+
+    void OnTriggerExit(Collider collider)
+    {
+        isUnderWater = false;
     }
 
     // 水中の体積を計算する

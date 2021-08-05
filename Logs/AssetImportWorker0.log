@@ -871,3 +871,24 @@ Received Import Request.
   path: Assets/Sphere.prefab
   artifactKey: Guid(7efbd404171964e8f853069af4355de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Sphere.prefab using Guid(7efbd404171964e8f853069af4355de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca8090ec0db69924f12e9742aa48f630') in 0.014114 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001254 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.361 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2661 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 198.8 MB.
+System memory in use after: 199.0 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3269.
+Total: 1.818333 ms (FindLiveObjects: 0.153791 ms CreateObjectMapping: 0.058333 ms MarkObjects: 1.213917 ms  DeleteObjects: 0.391416 ms)
+
