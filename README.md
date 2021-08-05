@@ -1,5 +1,5 @@
 # unity-next-island
- 浮力を使ったハイパーカジュアルゲーム
+ 浮力を使ったハイパーカジュアルゲーム（制作中）
 
 ## 浮力の実装
 [![Image from Gyazo](https://i.gyazo.com/3a6a1bb80a41e62a9440b3d986817ccd.gif)](https://gyazo.com/3a6a1bb80a41e62a9440b3d986817ccd)
