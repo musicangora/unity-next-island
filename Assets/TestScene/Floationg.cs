@@ -2,21 +2,28 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Buoyancy : MonoBehaviour
+public class Floationg : MonoBehaviour
 {
+    // 複数のSphereColliderから浮力を計算し親オブジェクトに反映させる
     public GameObject Plane;
-    public SphereCollider SphereCol;
-    private float _radius;
-    private const float PI = 3.141592f;
+    public GameObject ParentObj;
     private Rigidbody _rb;
-
+    private Transform _parentTransform;
+    private float _radius;
+    private SphereCollider _sphereColl;
+    private const float PI = 3.141592f;
     private bool isUnderWater;
     // Start is called before the first frame update
     void Start()
     {
-        //_col = GetComponent<SphereCollider>();
-        _radius = SphereCol.radius * gameObject.transform.localScale.y;
-        _rb = gameObject.GetComponent<Rigidbody>();
+        _sphereColl = GetComponent<SphereCollider>();
+        _parentTransform = ParentObj.GetComponent<Transform>();
+        _rb = ParentObj.GetComponent<Rigidbody>();
+        
+        // 親のスケールから自身のスケールを計算
+        Vector3 parentScale = _parentTransform.localScale;
+        float maxScale = Mathf.Max(parentScale.x, parentScale.y, parentScale.z);
+        _radius = _sphereColl.radius * maxScale;
         isUnderWater = false;
     }
 
@@ -57,6 +64,6 @@ public class Buoyancy : MonoBehaviour
         float t = underPlane - _radius;
 
         float volume = CalcVolume(t, _radius);
-        _rb.AddForce(0, volume*9.8f, 0);
+        _rb.AddForceAtPosition(new Vector3(0, volume*9.8f, 0), gameObject.transform.position);
     }
 }
