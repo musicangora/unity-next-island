@@ -1702,3 +1702,15 @@ System memory in use after: 216.3 MB.
 Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3411.
 Total: 2.000667 ms (FindLiveObjects: 0.193375 ms CreateObjectMapping: 0.063292 ms MarkObjects: 1.342500 ms  DeleteObjects: 0.400750 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 362.445408 seconds.
+  path: Assets/Materials/BallMat.mat
+  artifactKey: Guid(16b97e3d085994409bbb258b16871f83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/BallMat.mat using Guid(16b97e3d085994409bbb258b16871f83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '993eb1ce0f372ce93c168b2e4fa14f9d') in 0.425307 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Materials/Custom_Toon.mat
+  artifactKey: Guid(36309db32f8ad429ab8c51bbe5d9c419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Custom_Toon.mat using Guid(36309db32f8ad429ab8c51bbe5d9c419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfb891d4dac00227f682c723edc3572e') in 0.072010 seconds 
