@@ -1408,3 +1408,297 @@ System memory in use after: 203.6 MB.
 Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3333.
 Total: 1.896250 ms (FindLiveObjects: 0.189167 ms CreateObjectMapping: 0.063667 ms MarkObjects: 1.592041 ms  DeleteObjects: 0.050375 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 1562.463229 seconds.
+  path: Assets/TestScene/Buoyancy.cs
+  artifactKey: Guid(59a1f05fd0f48410f9adb3d9ec3869c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TestScene/Buoyancy.cs using Guid(59a1f05fd0f48410f9adb3d9ec3869c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c6fe85a7213d2d26ac70339c63ceaa0') in 0.116558 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2552.401519 seconds.
+  path: Assets/Materials/WaterShader.shader
+  artifactKey: Guid(393604920125741b1adad64d5eb93c33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/WaterShader.shader using Guid(393604920125741b1adad64d5eb93c33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9b3a8abf9d614adf06fe2e3d8f2f8e5') in 0.739446 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.850010 seconds.
+  path: Assets/Materials/Unlit_WaterShader.mat
+  artifactKey: Guid(527ba7d9b8f4c486b8304d2872eadf20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Unlit_WaterShader.mat using Guid(527ba7d9b8f4c486b8304d2872eadf20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd86f5a44d9dd487c9c674d576f02c7e3') in 0.307872 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 134.537130 seconds.
+  path: Assets/Materials/WaterShader.shader
+  artifactKey: Guid(393604920125741b1adad64d5eb93c33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/WaterShader.shader using Guid(393604920125741b1adad64d5eb93c33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '982eeb24c066eb055cdc840508fa2d17') in 0.052046 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2133.773973 seconds.
+  path: Assets/Materials/PerlinNoise.png
+  artifactKey: Guid(8bf9f4c8ab97e442c967bde515b69751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/PerlinNoise.png using Guid(8bf9f4c8ab97e442c967bde515b69751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '434a02c1cc8b4f98af29adee8f0259a9') in 1.063806 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002486 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.355 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2666 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 212.9 MB.
+System memory in use after: 213.1 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3355.
+Total: 2.495167 ms (FindLiveObjects: 0.159375 ms CreateObjectMapping: 0.068625 ms MarkObjects: 2.199375 ms  DeleteObjects: 0.066792 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002358 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.466 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2664 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 213.0 MB.
+System memory in use after: 213.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3358.
+Total: 1.579333 ms (FindLiveObjects: 0.217958 ms CreateObjectMapping: 0.060834 ms MarkObjects: 1.240041 ms  DeleteObjects: 0.059709 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2308.097341 seconds.
+  path: Assets/Materials/WaterDistortion.png
+  artifactKey: Guid(3287f22dfa958489dab850714eba47ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/WaterDistortion.png using Guid(3287f22dfa958489dab850714eba47ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '454501a1287cd9cc92458e89620a6cfe') in 0.279921 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001192 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.377 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2665 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 213.8 MB.
+System memory in use after: 214.0 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3376.
+Total: 1.521792 ms (FindLiveObjects: 0.134167 ms CreateObjectMapping: 0.063084 ms MarkObjects: 1.272416 ms  DeleteObjects: 0.051250 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 862.341043 seconds.
+  path: Assets/Materials/Unlit_WaterShader.mat
+  artifactKey: Guid(527ba7d9b8f4c486b8304d2872eadf20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Unlit_WaterShader.mat using Guid(527ba7d9b8f4c486b8304d2872eadf20) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader error in 'Unlit/WaterShader': incorrect number of arguments to numeric-type constructor at line 79 (on metal)
+
+Compiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+Disabled keywords: FOG_LINEAR FOG_EXP FOG_EXP2 UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30
+
+Shader error in 'Unlit/WaterShader': invalid subscript 'y' at line 79 (on metal)
+
+Compiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+Disabled keywords: FOG_LINEAR FOG_EXP FOG_EXP2 UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30
+
+Shader error in 'Unlit/WaterShader': incorrect number of arguments to numeric-type constructor at line 79 (on metal)
+
+Compiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+Disabled keywords: FOG_LINEAR FOG_EXP FOG_EXP2 UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30
+
+Shader error in 'Unlit/WaterShader': invalid subscript 'y' at line 79 (on metal)
+
+Compiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+Disabled keywords: FOG_LINEAR FOG_EXP FOG_EXP2 UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30
+
+ -> (artifact id: '779fb488cfa154e1ed70adcdbc0dcf1a') in 0.278655 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002065 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.362 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2664 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 214.1 MB.
+System memory in use after: 214.3 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3380.
+Total: 1.533417 ms (FindLiveObjects: 0.163000 ms CreateObjectMapping: 0.062917 ms MarkObjects: 1.256750 ms  DeleteObjects: 0.050042 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002417 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.383 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2664 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 214.3 MB.
+System memory in use after: 214.5 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3383.
+Total: 1.715416 ms (FindLiveObjects: 0.127666 ms CreateObjectMapping: 0.055459 ms MarkObjects: 1.157166 ms  DeleteObjects: 0.374667 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001121 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.905 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2664 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 214.5 MB.
+System memory in use after: 214.7 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3386.
+Total: 1.428458 ms (FindLiveObjects: 0.141000 ms CreateObjectMapping: 0.058875 ms MarkObjects: 1.188333 ms  DeleteObjects: 0.039541 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 853.734260 seconds.
+  path: Assets/Materials/Unlit_WaterShader.mat
+  artifactKey: Guid(527ba7d9b8f4c486b8304d2872eadf20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Unlit_WaterShader.mat using Guid(527ba7d9b8f4c486b8304d2872eadf20) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader error in 'Unlit/WaterShader': incorrect number of arguments to numeric-type constructor at line 79 (on metal)
+
+Compiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+Disabled keywords: FOG_LINEAR FOG_EXP FOG_EXP2 UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30
+
+Shader error in 'Unlit/WaterShader': invalid subscript 'y' at line 79 (on metal)
+
+Compiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+Disabled keywords: FOG_LINEAR FOG_EXP FOG_EXP2 UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30
+
+Shader error in 'Unlit/WaterShader': incorrect number of arguments to numeric-type constructor at line 79 (on metal)
+
+Compiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+Disabled keywords: FOG_LINEAR FOG_EXP FOG_EXP2 UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30
+
+Shader error in 'Unlit/WaterShader': invalid subscript 'y' at line 79 (on metal)
+
+Compiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+Disabled keywords: FOG_LINEAR FOG_EXP FOG_EXP2 UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30
+
+ -> (artifact id: '4ffb830caaef78be181780fc72594ea5') in 0.170925 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 54.178824 seconds.
+  path: Assets/Materials/BallMAt.mat
+  artifactKey: Guid(16b97e3d085994409bbb258b16871f83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/BallMAt.mat using Guid(16b97e3d085994409bbb258b16871f83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84c3df146cacc502c6761d1e4c1da8b3') in 0.022701 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 343.270814 seconds.
+  path: Assets/Materials/Toon.shader
+  artifactKey: Guid(bf2e67d77a0134e4dad8b01088b26f2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Toon.shader using Guid(bf2e67d77a0134e4dad8b01088b26f2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6847811dccc420bf1e41b363cb324832') in 0.092788 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.434139 seconds.
+  path: Assets/Materials/Custom_Toon.mat
+  artifactKey: Guid(36309db32f8ad429ab8c51bbe5d9c419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Custom_Toon.mat using Guid(36309db32f8ad429ab8c51bbe5d9c419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6836c5df8566da786953526d7302478a') in 0.066610 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 314.828286 seconds.
+  path: Assets/Materials/Toon.shader
+  artifactKey: Guid(bf2e67d77a0134e4dad8b01088b26f2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Toon.shader using Guid(bf2e67d77a0134e4dad8b01088b26f2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6570c3a7ec1d6bcba8af798819d80ab') in 0.010352 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 52.410622 seconds.
+  path: Assets/Materials/20170327201313.png
+  artifactKey: Guid(8fc684fbb9d9c4633b66f1b7fea6371f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/20170327201313.png using Guid(8fc684fbb9d9c4633b66f1b7fea6371f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f1eebea31e3510ed707afb02ee7a13c') in 0.238439 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003376 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.127 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2666 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 216.1 MB.
+System memory in use after: 216.3 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3408.
+Total: 1.482375 ms (FindLiveObjects: 0.159250 ms CreateObjectMapping: 0.055584 ms MarkObjects: 1.212625 ms  DeleteObjects: 0.054250 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002141 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.308 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2664 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 216.2 MB.
+System memory in use after: 216.3 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3411.
+Total: 2.000667 ms (FindLiveObjects: 0.193375 ms CreateObjectMapping: 0.063292 ms MarkObjects: 1.342500 ms  DeleteObjects: 0.400750 ms)
+

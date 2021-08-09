@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Unlit_WaterShader
+  m_Shader: {fileID: 4800000, guid: 393604920125741b1adad64d5eb93c33, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SurfaceDistortion:
+        m_Texture: {fileID: 2800000, guid: 3287f22dfa958489dab850714eba47ab, type: 3}
+        m_Scale: {x: 2, y: 2}
+        m_Offset: {x: 0, y: 0}
+    - _SurfaceNoise:
+        m_Texture: {fileID: 2800000, guid: 8bf9f4c8ab97e442c967bde515b69751, type: 3}
+        m_Scale: {x: 2, y: 8}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _DepthMaxDistance: 1
+    - _FormDistance: 0.4
+    - _SurfaceDistortionAmount: 0.264
+    - _SurfaceNoiseCutoff: 0.777
+    m_Colors:
+    - _DepthGradientDeep: {r: 0.086, g: 0.407, b: 1, a: 0.96862745}
+    - _DepthGradientShallow: {r: 0.325, g: 0.807, b: 0.971, a: 0.9019608}
+    - _FormColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SurfaceNoiseScroll: {r: 0.03, g: 0.03, b: 0, a: 0}
+  m_BuildTextureStacks: []
