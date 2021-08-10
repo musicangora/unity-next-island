@@ -1,11 +1,22 @@
 # unity-next-island
- 浮力を使ったハイパーカジュアルゲーム（制作中）
+ 浮力を使ったハイパーカジュアルゲーム
 
-## 浮力の実装
-[![Image from Gyazo](https://i.gyazo.com/3a6a1bb80a41e62a9440b3d986817ccd.gif)](https://gyazo.com/3a6a1bb80a41e62a9440b3d986817ccd)
+## 進捗（2021.8.9）
+[![Image from Gyazo](https://i.gyazo.com/543d2db54778fa102ef20c951dbe41fc.gif)](https://gyazo.com/543d2db54778fa102ef20c951dbe41fc)
 
-水中に沈んでいる球の体積を求めることで、かかる浮力を計算し`AddForce()`で浮力を加えている。
+### Done
+- 球を使った浮力の近似を実装
+- 水面のシェーダーを記述
+
+### Not yet
+- ゲームロジックの見直し
+- 操作の見直し
+
+## やりたかったこと
+- 水面のシェーダー
+- 球を使った浮力の近似
+
 
 ## 参考
-- [【Unity道場】物理シミュレーション完全マスター](https://www.slideshare.net/UnityTechnologiesJapan/unity-86625122)
-- [わからん人のUnity基本操作３　スクリプトの作成](https://hatsuka.frontl1ne.net/2017/02/%e3%82%8f%e3%81%8b%e3%82%89%e3%82%93%e4%ba%ba%e3%81%aeunity%e5%9f%ba%e6%9c%ac%e6%93%8d%e4%bd%9c%ef%bc%93%e3%80%80%e3%82%b9%e3%82%af%e3%83%aa%e3%83%97%e3%83%88%e3%81%ae%e4%bd%9c%e6%88%90/)
+- https://roystan.net/articles/toon-water.html
+- https://www.slideshare.net/UnityTechnologiesJapan/unity-86625122
