@@ -6,6 +6,8 @@ public class BallController : MonoBehaviour
 {
     [SerializeField]
     private Vector3 force = Vector3.zero;
+    [SerializeField]
+    private float power = 1;
     private Rigidbody _rb;
     private bool isKeyDown;
     // Start is called before the first frame update
@@ -17,6 +19,7 @@ public class BallController : MonoBehaviour
 
     void FixedUpdate()
     {
+        _rb.AddForce(Vector3.forward * power, ForceMode.Acceleration);
         // if (isKeyDown) _rb.AddForce(force, ForceMode.Impulse);
     }
 
