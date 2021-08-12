@@ -5,28 +5,34 @@ using UnityEngine;
 public class BallController : MonoBehaviour
 {
     [SerializeField]
-    private Vector3 force = Vector3.zero;
+    private float jumpPower = 1f;
     [SerializeField]
-    private float power = 1;
+    private float speedForward = 1f;
     private Rigidbody _rb;
-    private bool isKeyDown;
+    private bool isJump;
     // Start is called before the first frame update
     void Start()
     {
         _rb = GetComponent<Rigidbody>();
-        isKeyDown = false;
     }
 
     void FixedUpdate()
     {
-        _rb.AddForce(Vector3.forward * power, ForceMode.Acceleration);
-        // if (isKeyDown) _rb.AddForce(force, ForceMode.Impulse);
+        if (isJump)
+        {
+            _rb.AddForce(Vector3.up * jumpPower, ForceMode.Impulse);
+            isJump = false;
+        }
+        
+        _rb.AddForce(0f, 0f, Input.GetAxis("Vertical"));
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space)) _rb.AddForce(force, ForceMode.Impulse);
-        // isKeyDown = true ? Input.GetKeyDown(KeyCode.Space) : false;
+        if (_rb.position.y < 1.2f)
+        {
+            if (Input.GetKeyDown(KeyCode.Space)) isJump = true;
+        }
     }
 }
